@@ -1,0 +1,11 @@
+/Users/pogovorimopogode/Project/mindbox_test/geometry-engine/geometry-engine/bin/Debug/net9.0/geometry-engine.deps.json
+/Users/pogovorimopogode/Project/mindbox_test/geometry-engine/geometry-engine/bin/Debug/net9.0/geometry-engine.dll
+/Users/pogovorimopogode/Project/mindbox_test/geometry-engine/geometry-engine/bin/Debug/net9.0/geometry-engine.pdb
+/Users/pogovorimopogode/Project/mindbox_test/geometry-engine/geometry-engine/obj/Debug/net9.0/geometry-engine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pogovorimopogode/Project/mindbox_test/geometry-engine/geometry-engine/obj/Debug/net9.0/geometry-engine.AssemblyInfoInputs.cache
+/Users/pogovorimopogode/Project/mindbox_test/geometry-engine/geometry-engine/obj/Debug/net9.0/geometry-engine.AssemblyInfo.cs
+/Users/pogovorimopogode/Project/mindbox_test/geometry-engine/geometry-engine/obj/Debug/net9.0/geometry-engine.csproj.CoreCompileInputs.cache
+/Users/pogovorimopogode/Project/mindbox_test/geometry-engine/geometry-engine/obj/Debug/net9.0/geometry-engine.dll
+/Users/pogovorimopogode/Project/mindbox_test/geometry-engine/geometry-engine/obj/Debug/net9.0/refint/geometry-engine.dll
+/Users/pogovorimopogode/Project/mindbox_test/geometry-engine/geometry-engine/obj/Debug/net9.0/geometry-engine.pdb
+/Users/pogovorimopogode/Project/mindbox_test/geometry-engine/geometry-engine/obj/Debug/net9.0/ref/geometry-engine.dll
